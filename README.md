@@ -13,17 +13,17 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 •	Menú de navegación en la parte superior derecha, con las secciones principales:
 
-1.	Inicio
+  1.	Inicio
 
-2.	Galería (con submenú):
+  2.	Galería (con submenú):
 
-	Nuestros Platos
+    	Nuestros Platos
 
-	El Restaurante
+    	El Restaurante
 
-	Nuestro Equipo
+     	Nuestro Equipo
 
-	Contáctanos
+    	Contáctanos
 
 
 •	Carrusel grande con fotos destacadas del restaurante: platos emblemáticos, ambiente del local, preparación artesanal.
@@ -36,51 +36,47 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 •	Nuestros Platos:
 
-o	Grid de tarjetas con foto + nombre del plato + breve descripción + precio.
-
+  o	Grid de tarjetas con foto + nombre del plato + breve descripción + precio.
 
 
 •	El Restaurante:
 
-o	Fotografías del ambiente, mesas, cocina tradicional, decoración.
-
-
+  o	Fotografías del ambiente, mesas, cocina tradicional, decoración.
 
 •	Nuestro Equipo:
 
-o	Tarjetas con foto + nombre + especialidad culinaria.
+  o	Tarjetas con foto + nombre + especialidad culinaria.
 
-o	Opcional: frase inspiradora de cada chef o cocinero.
-
+  o	Opcional: frase inspiradora de cada chef o cocinero.
 
 
 ## 3° Página “Nuestro Menú” (pública)
 
 •	Todos los platos del restaurante, organizados por categoría:
 
-o	Entradas tradicionales
+  o	Entradas tradicionales
 
-o	Sopas
+  o	Sopas
 
-o	Platos fuertes
+  o	Platos fuertes
 
-o	Bebidas típicas
+  o	Bebidas típicas
 
-o	Postres
+  o	Postres
 
 •	Filtros por tipo de comida, precios o ingredientes.
 
 •	Cada plato muestra:
 
-o	Nombre del plato
+  o	Nombre del plato
 
-o	Autor o chef encargado
+  o	Autor o chef encargado
 
-o	Descripción del sabor y preparación
+  o	Descripción del sabor y preparación
 
-o	Imágenes reales del plato
+  o	Imágenes reales del plato
 
-o	Precio o enlace a pedido
+  o	Precio o enlace a pedido
 
 •	Sistema de “me gusta” para que los clientes indiquen sus favoritos.
 
@@ -92,13 +88,13 @@ o	Precio o enlace a pedido
 
 •	Información clara de contacto:
 
-o	Correo del restaurante
+  o	Correo del restaurante
 
-o	Número telefónico o WhatsApp
+  o	Número telefónico o WhatsApp
 
-o	Dirección física
+  o	Dirección física
 
-o	Ubicación en mapa
+  o	Ubicación en mapa
 
 •	Mensaje que se envía directamente al administrador o encargado del restaurante.
 

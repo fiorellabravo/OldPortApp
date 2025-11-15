@@ -106,6 +106,7 @@ o	Ubicación en mapa
 
 <img width="1121" height="689" alt="image" src="https://github.com/user-attachments/assets/f54c24a7-fbbd-4a68-9d3e-aa2694b3a87c" />
 
-Conclusión
+# Conclusión
+
 Este avance del proyecto presenta la estructura general y los elementos principales del sitio web MoroGrill, enfocado en ofrecer una experiencia digital clara, atractiva y funcional para los usuarios. Con el tema, la descripción, las características clave y el diagrama de arquitectura definidos, el equipo cuenta con una base sólida para continuar con el desarrollo y la implementación del sitio.
 

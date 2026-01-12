@@ -13,7 +13,7 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 •	Menú de navegación en la parte superior derecha, con las secciones principales:
 
-  1.	Inicio
+  1.	Inicio:
 
   2.	Galería (con submenú):
 
@@ -54,33 +54,33 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 •	Todos los platos del restaurante, organizados por categoría:
 
-   o	Entradas tradicionales
+   o	Entradas tradicionales.
 
-   o	Sopas
+   o	Sopas.
 
-   o	Platos fuertes
+   o	Platos fuertes.
 
-   o	Bebidas típicas
+   o	Bebidas típicas.
 
-   o	Postres
+   o	Postres.
 
 •	Filtros por tipo de comida, precios o ingredientes.
 
 •	Cada plato muestra:
 
-   o	Nombre del plato
+   o	Nombre del plato.
 
-   o	Autor o chef encargado
+   o	Autor o chef encargado.
 
-   o	Descripción del sabor y preparación
+   o	Descripción del sabor y preparación.
 
-   o	Imágenes reales del plato
+   o	Imágenes reales del plato.
 
-   o	Precio o enlace a pedido
+   o	Precio o enlace a pedido.
 
 •	Sistema de “me gusta” para que los clientes indiquen sus favoritos.
 
-## 4° Página “Contáctanos”
+## 4° Página “Contáctanos”:
 
 •	Pensada para clientes, empresas o turistas que desean comunicarse con el restaurante.
 
@@ -88,17 +88,17 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 •	Información clara de contacto:
 
-   o	Correo del restaurante
+   o	Correo del restaurante.
 
-   o	Número telefónico o WhatsApp
+   o	Número telefónico o WhatsApp.
 
-   o	Dirección física
+   o	Dirección física.
 
-   o	Ubicación en mapa
+   o	Ubicación en mapa.
 
 •	Mensaje que se envía directamente al administrador o encargado del restaurante.
 
-# Diagrama de arquitectura del sitio
+# Diagrama de arquitectura del sitio:
 
 <img width="1121" height="689" alt="image" src="https://github.com/user-attachments/assets/f54c24a7-fbbd-4a68-9d3e-aa2694b3a87c" />
 

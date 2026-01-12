@@ -106,6 +106,7 @@ Nuestro restaurante es un espacio dedicado a preservar y compartir el auténtico
 
 Este avance del proyecto presenta la estructura general y los elementos principales del sitio web MoroGrill, enfocado en ofrecer una experiencia digital clara, atractiva y funcional para los usuarios. Con el tema, la descripción, las características clave y el diagrama de arquitectura definidos, el equipo cuenta con una base sólida para continuar con el desarrollo y la implementación del sitio.
 
-PROYECTO:
+# PROYECTO:
+
 https://acadillingworth-my.sharepoint.com/:u:/g/personal/230251_estudiantes_anai_edu_ec/IQAvl5ai2BBKQrS9YY1J0oPcAUOnsaSESYnPA-MZrcqNgak
 
